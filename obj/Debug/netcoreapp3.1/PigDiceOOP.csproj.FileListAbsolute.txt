@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PigDiceOOP\bin\Debug\netcoreapp3.1\PigDiceOOP.exe
+C:\Users\DELL\source\repos\PigDiceOOP\bin\Debug\netcoreapp3.1\PigDiceOOP.deps.json
+C:\Users\DELL\source\repos\PigDiceOOP\bin\Debug\netcoreapp3.1\PigDiceOOP.runtimeconfig.json
+C:\Users\DELL\source\repos\PigDiceOOP\bin\Debug\netcoreapp3.1\PigDiceOOP.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\PigDiceOOP\bin\Debug\netcoreapp3.1\PigDiceOOP.dll
+C:\Users\DELL\source\repos\PigDiceOOP\bin\Debug\netcoreapp3.1\PigDiceOOP.pdb
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.dll
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.pdb
+C:\Users\DELL\source\repos\PigDiceOOP\obj\Debug\netcoreapp3.1\PigDiceOOP.genruntimeconfig.cache
